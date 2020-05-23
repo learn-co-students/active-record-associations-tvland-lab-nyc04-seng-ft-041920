@@ -1,0 +1,5 @@
+shaymitchell = Actor.create(first_name:"Shay", last_name:"Mitchell")
+pll = Show.create(name:"Pretty Little Liars")
+you = Show.create(name:"You")
+emily = Character.create(name:"Emily")
+peach = Character.create(name:"Peach")
