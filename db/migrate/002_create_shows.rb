@@ -9,3 +9,5 @@ class CreateShows < ActiveRecord::Migration[5.1]
     end
   end
 end
+
+# :day => "Thursday", :season => "Winter")
